@@ -1,0 +1,3 @@
+displayName = Duhbrain's Throw
+author = Duhbrain
+version = 0.1
